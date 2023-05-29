@@ -1,65 +1,15 @@
 
-###################################################
 Download Free Python Machine Learning Book
-###################################################
-
-.. raw:: html
-
-   <div align="center">
-
-.. raw:: html
 
  <a href="http://www.machinelearningmindset.com/deep-learning-roadmap/" target="_blank">
   <img width="900" height="625" align="center" src="https://github.com/machinelearningmindset/deep-learning-roadmap/blob/master/_img/mainpage/deeplearningroadmapbook.png"/>
- </a>
-
-.. raw:: html
-
-   </div>
-   
-   
-###################################################
-Slack Group
-###################################################
-
-.. raw:: html
+ </a>   
 
    <div align="center">
-
-.. raw:: html
 
  <a href="https://www.machinelearningmindset.com/slack-group/" target="_blank">
   <img width="1033" height="350" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Course/blob/master/_img/0-welcome/joinslack.png"/>
  </a>
-
-.. raw:: html
-
-   </div>
-
-
-##################
-Table of Contents
-##################
-.. contents::
-  :local:
-  :depth: 4
-
-.. image:: _img/mainpage/logo.gif
-
-***************
-Introduction
-***************
-
-The purpose of this project is to introduce a shortcut to developers and researcher
-for finding useful resources about Deep Learning.
-
-------------------------------------------------------------
-What's the point of this open source project?
-------------------------------------------------------------
-
-There are other repositories similar to this repository that are very
-comprehensive and useful and to be honest they made me ponder if there is
-a necessity for this repository!
 
 ************
 Papers
@@ -77,40 +27,22 @@ Models
 Convolutional Networks
 -----------------------
 
-  .. image:: _img/mainpage/convolutional.png
+[Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 
-.. For continuous lines, the lines must be start from the same locations.
-* **Imagenet classification with deep convolutional neural networks** :
-  [`Paper <http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks>`_][`Code <https://github.com/dontfollowmeimcrazy/imagenet>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
-* **Convolutional Neural Networks for Sentence Classification** :
-  [`Paper <https://arxiv.org/abs/1408.5882>`_][`Code <https://github.com/yoonkim/CNN_sentence>`_]
-
-  .. image:: _img/mainpage/star_4.png
+[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 
 * **Large-scale Video Classification with Convolutional Neural Networks** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.html>`_][`Project Page <https://cs.stanford.edu/people/karpathy/deepvideo/>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Oquab_Learning_and_Transferring_2014_CVPR_paper.html>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 
 * **Deep convolutional neural networks for LVCSR** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6639347/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&ei=KknXWYbGFMbFjwSsyICADQ&scisig=AAGBfm2F0Zlu0ciUwadzshNNm80IQQhuhA>`_]
-  
-  .. image:: _img/mainpage/star_3.png
 
 * **Face recognition: a convolutional neural-network approach** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/554195/>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
 
 
 -----------------------
@@ -565,16 +497,6 @@ Speech Technology
   [`Paper <https://arxiv.org/abs/1705.09422>`_][`Code <https://github.com/astorfi/3D-convolutional-speaker-recognition>`_]
 
   .. image:: _img/mainpage/star_4.png
-
-
-************
-Datasets
-************
-
-====================
-Image
-====================
-
 
 ----------------------------
 General
