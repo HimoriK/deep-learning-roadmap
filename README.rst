@@ -56,24 +56,14 @@ Recurrent Networks
 * **An empirical exploration of recurrent network architectures** :
   [`Paper <http://proceedings.mlr.press/v37/jozefowicz15.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue>`_][`Code <https://github.com/debajyotidatta/RecurrentArchitectures>`_]
 
-
-  .. image:: _img/mainpage/star_4.png
-
 * **LSTM: A search space odyssey** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/7508408/>`_][`Code <https://github.com/fomorians/lstm-odyssey>`_]
-
-  .. image:: _img/mainpage/star_3.png
-
 
 * **On the difficulty of training recurrent neural networks** :
   [`Paper <http://proceedings.mlr.press/v28/pascanu13.pdf>`_][`Code <https://github.com/pascanur/trainingRNNs>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Learning to forget: Continual prediction with LSTM** :
   [`Paper <http://digital-library.theiet.org/content/conferences/10.1049/cp_19991218>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 -----------------------
 Autoencoders
@@ -116,29 +106,19 @@ Generative Models
 * **Exploiting generative models discriminative classifiers** :
   [`Paper <http://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Semi-supervised Learning with Deep Generative Models** :
   [`Paper <http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models>`_][`Code <https://github.com/wohlert/semi-supervised-pytorch>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 
 * **Generative Adversarial Nets** :
   [`Paper <http://papers.nips.cc/paper/5423-generative-adversarial-nets>`_][`Code <https://github.com/goodfeli/adversarial>`_]
 
-  .. image:: _img/mainpage/star_5.png
 
 * **Generalized Denoising Auto-Encoders as Generative Models** :
   [`Paper <http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models>`_]
-
-  .. image:: _img/mainpage/star_5.png
   
 * **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** :
   [`Paper <https://arxiv.org/abs/1511.06434>`_][`Code <https://github.com/carpedm20/DCGAN-tensorflow>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
 
 -----------------------
 Probabilistic Models
@@ -152,15 +132,8 @@ Probabilistic Models
 * **Probabilistic models of cognition: exploring representations and inductive biases** :
   [`Paper <https://www.sciencedirect.com/science/article/pii/S1364661310001129>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **On deep generative models with applications to recognition** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/5995710/>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
-
-
 
 
 ====================
@@ -176,27 +149,17 @@ Optimization
 * **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift** :
   [`Paper <https://arxiv.org/abs/1502.03167>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Dropout: A Simple Way to Prevent Neural Networks from Overfitting** :
   [`Paper <http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
+  
 * **Training Very Deep Networks** :
   [`Paper <http://papers.nips.cc/paper/5850-training-very-deep-networks>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Large Scale Distributed Deep Networks** :
   [`Paper <http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 ------------------------
 Representation Learning
@@ -205,19 +168,12 @@ Representation Learning
 * **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** :
   [`Paper <https://arxiv.org/abs/1511.06434>`_][`Code <https://github.com/Newmu/dcgan_code>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Representation Learning: A Review and New Perspectives** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6472238/>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** :
   [`Paper <http://papers.nips.cc/paper/6399-infogan-interpretable-representation>`_][`Code <https://github.com/openai/InfoGAN>`_]
-
-  .. image:: _img/mainpage/star_3.png
-
-
+  
 ------------------------------------
 Understanding and Transfer Learning
 ------------------------------------
@@ -225,22 +181,14 @@ Understanding and Transfer Learning
 * **Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Oquab_Learning_and_Transferring_2014_CVPR_paper.html>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Distilling the Knowledge in a Neural Network** :
   [`Paper <https://arxiv.org/abs/1503.02531>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition** :
-  [`Paper <http://proceedings.mlr.press/v32/donahue14.pdf>`_][
-
-  .. image:: _img/mainpage/star_5.png
+  [`Paper <http://proceedings.mlr.press/v32/donahue14.pdf>`_]
 
 * **How transferable are features in deep neural networks?** :
   [`Paper <http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-n%E2%80%A6>`_][`Code <https://github.com/yosinski/convnet_transfer>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 -----------------------
 Reinforcement Learning
@@ -249,27 +197,17 @@ Reinforcement Learning
 * **Human-level control through deep reinforcement learning** :
   [`Paper <https://www.nature.com/articles/nature14236/>`_][`Code <https://github.com/devsisters/DQN-tensorflow>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Playing Atari with Deep Reinforcement Learning** :
   [`Paper <https://arxiv.org/abs/1312.5602>`_][`Code <https://github.com/carpedm20/deep-rl-tensorflow>`_]
-
-  .. image:: _img/mainpage/star_3.png
 
 * **Continuous control with deep reinforcement learning** :
   [`Paper <https://arxiv.org/abs/1509.02971>`_][`Code <https://github.com/stevenpjg/ddpg-aigym>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Deep Reinforcement Learning with Double Q-Learning** :
   [`Paper <http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847>`_][`Code <https://github.com/carpedm20/deep-rl-tensorflow>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Dueling Network Architectures for Deep Reinforcement Learning** :
   [`Paper <https://arxiv.org/abs/1511.06581>`_][`Code <https://github.com/yoosan/deeprl>`_]
-
-  .. image:: _img/mainpage/star_3.png
 
 
 ====================
@@ -283,42 +221,26 @@ Image Recognition
 * **Deep Residual Learning for Image Recognition** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html>`_][`Code <https://github.com/gcr/torch-residual-networks>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Very Deep Convolutional Networks for Large-Scale Image Recognition** :
   [`Paper <https://arxiv.org/abs/1409.1556>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 * **Multi-column Deep Neural Networks for Image Classification** :
   [`Paper <https://arxiv.org/abs/1202.2745>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **DeepID3: Face Recognition with Very Deep Neural Networks** :
   [`Paper <https://arxiv.org/abs/1502.00873>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps** :
   [`Paper <https://arxiv.org/abs/1312.6034>`_][`Code <https://github.com/artvandelay/Deep_Inside_Convolutional_Networks>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Deep Image: Scaling up Image Recognition** :
   [`Paper <https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Long-Term Recurrent Convolutional Networks for Visual Recognition and Description** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html>`_][`Code <https://github.com/JaggerYoung/LRCN-for-Activity-Recognition>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition** :
   [`Paper <https://ieeexplore.ieee.org/document/8063416>`_][`Code <https://github.com/astorfi/lip-reading-deeplearning>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 --------------------
 Object Recognition
@@ -327,38 +249,23 @@ Object Recognition
 * **ImageNet Classification with Deep Convolutional Neural Networks** :
   [`Paper <http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Learning Deep Features for Scene Recognition using Places Database** :
   [`Paper <http://papers.nips.cc/paper/5349-learning-deep-features>`_]
-
-  .. image:: _img/mainpage/star_3.png
-
+  
 * **Scalable Object Detection using Deep Neural Networks** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Erhan_Scalable_Object_Detection_2014_CVPR_paper.html>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** :
   [`Paper <http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks>`_][`Code <https://github.com/rbgirshick/py-faster-rcnn>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks** :
   [`Paper <https://arxiv.org/abs/1312.6229>`_][`Code <https://github.com/sermanet/OverFeat>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 * **CNN Features Off-the-Shelf: An Astounding Baseline for Recognition** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/html/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.html>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **What is the best multi-stage architecture for object recognition?** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/5459469/>`_]
-
-  .. image:: _img/mainpage/star_2.png
-
 
 --------------------
 Action Recognition
