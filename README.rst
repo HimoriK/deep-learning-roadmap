@@ -1,6 +1,6 @@
 
-[Free Python Machine Learning Book](http://www.machinelearningmindset.com/deep-learning-roadmap/)
- [and slack group](https://www.machinelearningmindset.com/slack-group/)
+* [Free Python Machine Learning Book](http://www.machinelearningmindset.com/deep-learning-roadmap)
+* [slack group](https://www.machinelearningmindset.com/slack-group)
  
 ************
 Papers
@@ -114,7 +114,6 @@ Probabilistic Models
 
 * **On deep generative models with applications to recognition** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/5995710/>`_]
-
 
 ====================
 Core
@@ -254,27 +253,17 @@ Action Recognition
 * **Long-Term Recurrent Convolutional Networks for Visual Recognition and Description** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Learning Spatiotemporal Features With 3D Convolutional Networks** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.html>`_][`Code <https://github.com/DavideA/c3d-pytorch>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 * **Describing Videos by Exploiting Temporal Structure** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Yao_Describing_Videos_by_ICCV_2015_paper.html>`_][`Code <https://github.com/tsenghungchen/SA-tensorflow>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Convolutional Two-Stream Network Fusion for Video Action Recognition** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feichtenhofer_Convolutional_Two-Stream_Network_CVPR_2016_paper.html>`_][`Code <https://github.com/feichtenhofer/twostreamfusion>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Temporal segment networks: Towards good practices for deep action recognition** :
   [`Paper <https://link.springer.com/chapter/10.1007/978-3-319-46484-8_2>`_][`Code <https://github.com/yjxiong/temporal-segment-networks>`_]
-
-  .. image:: _img/mainpage/star_3.png
 
 ----------------------------
 Caption Generation
@@ -283,28 +272,17 @@ Caption Generation
 * **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention** :
   [`Paper <http://proceedings.mlr.press/v37/xuc15.pdf>`_][`Code <https://github.com/yunjey/show-attend-and-tell>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Mind's Eye: A Recurrent Visual Representation for Image Caption Generation** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Chen_Minds_Eye_A_2015_CVPR_paper.html>`_]
-
-  .. image:: _img/mainpage/star_2.png
 
 * **Generative Adversarial Text to Image Synthesis** :
   [`Paper <http://proceedings.mlr.press/v48/reed16.pdf>`_][`Code <https://github.com/zsdonghao/text-to-image>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Deep Visual-Semantic Al60ignments for Generating Image Descriptions** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html>`_][`Code <https://github.com/jonkuo/Deep-Learning-Image-Captioning>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Show and Tell: A Neural Image Caption Generator** :
   [`Paper <https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html>`_][`Code <https://github.com/DeepRNN/image_captioning>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
 
 ----------------------------
 Natural Language Processing
@@ -313,12 +291,8 @@ Natural Language Processing
 * **Distributed Representations of Words and Phrases and their Compositionality** :
   [`Paper <http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf>`_][`Code <https://code.google.com/archive/p/word2vec/>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Efficient Estimation of Word Representations in Vector Space** :
   [`Paper <https://arxiv.org/pdf/1301.3781.pdf>`_][`Code <https://code.google.com/archive/p/word2vec/>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Sequence to Sequence Learning with Neural Networks** :
   [`Paper <https://arxiv.org/pdf/1409.3215.pdf>`_][`Code <https://github.com/farizrahman4u/seq2seq>`_]
@@ -342,37 +316,23 @@ Speech Technology
 * **Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6296526/>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Towards End-to-End Speech Recognition with Recurrent Neural Networks** :
   [`Paper <http://proceedings.mlr.press/v32/graves14.pdf>`_]
-
-  .. image:: _img/mainpage/star_3.png
 
 * **Speech recognition with deep recurrent neural networks** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6638947/>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition** :
   [`Paper <https://arxiv.org/abs/1507.06947>`_]
-
-  .. image:: _img/mainpage/star_3.png
 
 * **Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin** :
   [`Paper <http://proceedings.mlr.press/v48/amodei16.html>`_][`Code <https://github.com/PaddlePaddle/DeepSpeech>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **A novel scheme for speaker recognition using a phonetically-aware deep neural network** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6853887/>`_]
-
-  .. image:: _img/mainpage/star_3.png
  
 * **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks** :
   [`Paper <https://arxiv.org/abs/1705.09422>`_][`Code <https://github.com/astorfi/3D-convolutional-speaker-recognition>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 ----------------------------
 General
@@ -545,11 +505,6 @@ Speech Technology
 * **NIST Speaker Recognition**:
   [`Link <https://www.nist.gov/itl/iad/mig/speaker-recognition>`_]
 
-
-
-
-
-
 ************
 Courses
 ************
@@ -582,9 +537,6 @@ Courses
 
 * **Course on Deep Learning for Visual Computing** by IITKGP:
   [`Link <https://www.youtube.com/playlist?list=PLuv3GM6-gsE1Biyakccxb3FAn4wBLyfWf>`_]
-
-
-
 
 ************
 Books
