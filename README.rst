@@ -1,16 +1,7 @@
 
-Download Free Python Machine Learning Book
-
- <a href="http://www.machinelearningmindset.com/deep-learning-roadmap/" target="_blank">
-  <img width="900" height="625" align="center" src="https://github.com/machinelearningmindset/deep-learning-roadmap/blob/master/_img/mainpage/deeplearningroadmapbook.png"/>
- </a>   
-
-   <div align="center">
-
- <a href="https://www.machinelearningmindset.com/slack-group/" target="_blank">
-  <img width="1033" height="350" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Course/blob/master/_img/0-welcome/joinslack.png"/>
- </a>
-
+[Free Python Machine Learning Book](http://www.machinelearningmindset.com/deep-learning-roadmap/)
+ [and slack group](https://www.machinelearningmindset.com/slack-group/)
+ 
 ************
 Papers
 ************
@@ -74,28 +65,17 @@ Autoencoders
 * **Extracting and composing robust features with denoising autoencoders** :
   [`Paper <https://dl.acm.org/citation.cfm?id=1390294>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion** :
   [`Paper <http://www.jmlr.org/papers/v11/vincent10a.html>`_][`Code <https://github.com/rajarsheem/libsdae-autoencoder-tensorflow>`_]
-
-  .. image:: _img/mainpage/star_5.png
 
 * **Adversarial Autoencoders** :
   [`Paper <https://arxiv.org/abs/1511.05644>`_][`Code <https://github.com/conan7882/adversarial-autoencoders>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Autoencoders, Unsupervised Learning, and Deep Architectures** :
   [`Paper <http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Reducing the Dimensionality of Data with Neural Networks** :
   [`Paper <http://science.sciencemag.org/content/313/5786/504>`_][`Code <https://github.com/jordn/autoencoder>`_]
-
-  .. image:: _img/mainpage/star_5.png
-
 
 -----------------------
 Generative Models
@@ -343,28 +323,17 @@ Natural Language Processing
 * **Sequence to Sequence Learning with Neural Networks** :
   [`Paper <https://arxiv.org/pdf/1409.3215.pdf>`_][`Code <https://github.com/farizrahman4u/seq2seq>`_]
 
-  .. image:: _img/mainpage/star_5.png
-
 * **Neural Machine Translation by Jointly Learning to Align and Translate** :
   [`Paper <https://arxiv.org/pdf/1409.0473.pdf>`_][`Code <https://github.com/tensorflow/nmt>`_]
-
-  .. image:: _img/mainpage/star_4.png
 
 * **Get To The Point: Summarization with Pointer-Generator Networks** :
   [`Paper <https://arxiv.org/abs/1704.04368>`_][`Code <https://github.com/abisee/pointer-generator>`_]
 
-  .. image:: _img/mainpage/star_3.png
-
 * **Attention Is All You Need** :
   [`Paper <https://arxiv.org/abs/1706.03762>`_][`Code <https://github.com/jadore801120/attention-is-all-you-need-pytorch>`_]
 
-  .. image:: _img/mainpage/star_4.png
-
 * **Convolutional Neural Networks for Sentence Classification** :
   [`Paper <https://arxiv.org/abs/1408.5882>`_][`Code <https://github.com/yoonkim/CNN_sentence>`_]
-
-  .. image:: _img/mainpage/star_4.png
-
 
 ----------------------------
 Speech Technology
