@@ -1,14 +1,12 @@
 
-* [Free Python Machine Learning Book](http://www.machinelearningmindset.com/deep-learning-roadmap)
-* [slack group](https://www.machinelearningmindset.com/slack-group)
+[Free Python Machine Learning Book](https://www.machinelearningmindset.com/deep-learning-roadmap)
+[slack group](https://www.machinelearningmindset.com/slack-group)
  
 ************
 Papers
 ************
 
 .. image:: _img/mainpage/article.jpeg
-
-This chapter is associated with the papers published in deep learning.
 
 ====================
 Models
@@ -41,7 +39,7 @@ Recurrent Networks
 -----------------------
 
   .. image:: _img/mainpage/Recurrent_neural_network_unfold.svg
-
+  
 
 .. For continuous lines, the lines must be start from the same locations.
 * **An empirical exploration of recurrent network architectures** :
@@ -89,10 +87,8 @@ Generative Models
 * **Semi-supervised Learning with Deep Generative Models** :
   [`Paper <http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models>`_][`Code <https://github.com/wohlert/semi-supervised-pytorch>`_]
 
-
 * **Generative Adversarial Nets** :
   [`Paper <http://papers.nips.cc/paper/5423-generative-adversarial-nets>`_][`Code <https://github.com/goodfeli/adversarial>`_]
-
 
 * **Generalized Denoising Auto-Encoders as Generative Models** :
   [`Paper <http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models>`_]
