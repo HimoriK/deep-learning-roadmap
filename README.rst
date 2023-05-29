@@ -1,6 +1,5 @@
-
-[Free Python Machine Learning Book](https://www.machinelearningmindset.com/deep-learning-roadmap)
-[slack group](https://www.machinelearningmindset.com/slack-group)
+[machinelearningbook](https://www.machinelearningmindset.com/deep-learning-roadmap)
+[slack](https://www.machinelearningmindset.com/slack-group)
  
 ************
 Papers
